@@ -1,0 +1,33 @@
+﻿body {background-color: #FFFF99; position: absolute; margin: 1em; }
+H3 { font-size: 230%; font-weight: bolder; color: #339900; width: 100%; height: 10%; text-align: center}
+.estilo_tabla {width: 80%; height: 70%; margin-left: 1em; margin-right: 1em; margin-botom: 0em; margin-top: 0em;padding-top: 0em;}
+.estilo_celda {color: green; font-weight: bolder; font-size: 100%; align: center; width: 10%; height: 20%; }
+.tabla_registro {width: 100%; height: 30%; align: center; border-color: red; border-width: 5px;}
+.nombre_dato { width: 8%; font-variant: small-caps; padding-bottom: 1.5em; padding-top: 1.5em;}
+.caja_texto {width: 75%}
+.numero_cuenta {font-variant: small-caps; width: 30%}
+.cuenta {padding-left: 2em; margin-left: 2em; padding-top: 3em; width: 96%}
+.botones { margin-left: 12em; padding-left: 12em; width: 80%; height: 15%; spacing: 40px;}
+.boton1 {margin-left: 8em; padding-left: 6em; text-align: right; vertical-align: top}
+.boton2 {text-align: right; vertical-align: bottom; padding-right: 3em}
+.boton_registro {width: 50%; height: 40%}
+.boton_volver {float: right;}
+.imagen {position: absolute}
+.estilo_tabla_pelicula {width: 65%; height: 35%; margin-left: 1em; margin-right: 1em; margin-top:0em;}
+.estilo_tabla_pelicula_buscar {width: 70%;margin-left: 8em; border-color:#339900; }
+.desc {width: 100%;height: 100%; padding-left: 0.2em; margin: 0em;}
+.celda {padding-left: 1em; padding-right: 1em;}
+.celda_titulo {padding-left: 1em; padding-right: 1em; font-weight: bolder; }
+.celda_buscar {padding-left: 1em; padding-right: 1em; padding-top:0.5em; padding-bottom:0.5em; border-color: #339900; border-style:solid}
+.celda_link_buscar {padding-left: 1em; padding-right: 1em;border-color:#339900; border-style:solid; width:16%}
+.celda_titulo_buscar {padding-left: 1em; padding-right: 1em; padding-top:1em; padding-bottom:1em; font-weight: bolder; background-color:#339900; color:white; border-color:green }
+.poner_coment {float: right; padding-top: 0em; margin-top: 0em}
+.ver_coment {float: left; padding-top: 0em; margin-top: 0em}
+.volver {float: right; padding-bottom: 1em; text-align: right; width: 60%; height: 10%; color: red}
+.busqueda {background-color: #FFFF99; position: absolute; margin-left: 10em; margin-right: 10em; padding-left: 10em; padding-right: 10em;}
+.buscar {float: right; margin-right: 12em;}
+.buscar2 {float: right; margin-right: 1em;}
+.link_pelicula {font-size: 14px; font-family:Verdana,Helvetica; color: #339900; background:#FFFF99; border-width:0px; border-color:#99AACC;margin:0.3em; width: 13em; text-align: center; text-decoration: underline}
+.centro {text-align:center}
+
+
